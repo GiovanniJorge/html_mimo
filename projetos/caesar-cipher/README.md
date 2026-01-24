@@ -1,6 +1,6 @@
 ![Preview do projeto](preview.png)
 
-# Caesar Cipher — Projeto de Exemplo
+# Caesar Cipher
 
 Demo online: [https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/](https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/)
 
@@ -25,7 +25,7 @@ Como usar
 4. Escolha entre "Cifrar" ou "Decifrar".
 5. Veja o resultado no campo de saída e copie conforme necessário.
 
-Como funciona (breve)
+Como funciona
 ---------------------
 A cifra de César desloca cada letra do alfabeto por um valor fixo (shift). Por exemplo, com shift = 3:
 - A → D
@@ -88,13 +88,3 @@ Giovanni Jorge — repositório principal: [GiovanniJorge/html-mimo](https://git
 Contato
 -------
 Problemas, dúvidas ou sugestões podem ser abertas como issues no repositório ou enviadas via perfil do GitHub.
-
-Observações finais
-------------------
-O README foi atualizado para:
-- Usar a imagem `preview.png` que está na mesma pasta (referência relativa para garantir carregamento no GitHub).
-- Incluir exatamente o link que você forneceu para a demo online.
-
-Próximo passo
-------------
-Se quiser que eu comite este README.md na pasta `projetos/caesar-cipher`, confirme e diga se quer que eu adicione também uma licença (por exemplo MIT). Posso subir imediatamente com a mensagem de commit que você preferir.
