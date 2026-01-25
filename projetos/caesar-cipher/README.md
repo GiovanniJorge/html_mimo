@@ -1,6 +1,6 @@
-![Preview do projeto](preview.png)
-
 # Caesar Cipher
+
+![Preview do projeto](preview.png)
 
 Demo online: [https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/](https://giovannijorge.github.io/html-mimo/projetos/caesar-cipher/)
 
