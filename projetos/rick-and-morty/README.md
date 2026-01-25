@@ -73,14 +73,6 @@ Acessibilidade e boas práticas
 - Indicação clara de estados (carregando / erro / sem resultados).
 - Uso mínimo de bibliotecas externas para facilitar estudo e entendimento do código.
 
-Possíveis melhorias
--------------------
-- Implementar cache local (localStorage) para reduzir requisições na mesma sessão.
-- Adicionar filtragem mais avançada (ordenar por nome, filtrar por múltiplos critérios combinados).
-- Suporte a pesquisa com debounce para reduzir chamadas à API durante digitação.
-- Paginação infinita (infinite scroll) como alternativa aos controles atuais.
-- Testes automatizados (unitários / E2E) para a lógica de busca e renderização.
-
 Contribuição
 ------------
 Contribuições são bem-vindas. Sugestões:
